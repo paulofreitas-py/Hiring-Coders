@@ -8,7 +8,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://paulofreitasdev.files.wordpress.com/2021/07/hiring-coders-github.png">
+  <img src="https://paulofreitasdev.files.wordpress.com/2021/07/hiringcoders-1.jpg">
 </h2>
 
 Desafio - Criar um sistema de e-commerce para cadastro de email na landing page para recebimento de novidades e promoções.
