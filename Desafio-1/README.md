@@ -1,4 +1,4 @@
-# Hiring Coders #2
+# Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
 
 <h1 align="center">
 <img src="https://img.shields.io/static/v1?label=Bolsa&message=Hiring-Coders&color=ff6347&style&logo=ghost"/>
@@ -11,42 +11,23 @@
   <img src="https://paulofreitasdev.files.wordpress.com/2021/07/hiring-coders-github.png">
 </h2>
 
-### Repositorio dedicado a todos os projetos do programa da Gama Academy - Hiring Coders#2
+Desafio - Criar um sistema de e-commerce para cadastro de email na landing page para recebimento de novidades e promoções.
 
-<img src="https://paulofreitasdev.files.wordpress.com/2021/07/hiringcoders-1.jpg">
 
-## 📚 Módulos
+1° Entrega 
 
-🔖 [[HC] Módulo 01 - Introdução]()<br>
+- Site Oficial / Landing page  
 
-## 🛠 Tecnologias Usadas
-<br>
-<p align="center">
+Entregáveis: 
 
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo=css3&ogoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/javascript%20-bf360c.svg?&style=for-the-badge&logo=javascript&ogoColor=white"/>
-   <img alt="Java" src="https://img.shields.io/badge/mysql%20-ff7f50.svg?&style=for-the-badge&logo=mysql&ogoColor=white"/>
-  <br>
-</p>
+-Template do site oficial 
 
-## 📚 Links Uteis
+-Landing page de promoções, estilo black friday; 
 
-🔖 [Notion - Anotações](https://www.notion.so)<br>
-🔖 [Canva - Slide](https://www.canva.com/)<br>
+-Cadastre seu e-mail para receber promoções 
 
-## 🎡 Playgrounds
-  - SoloLearn - code.sololearn.com
-  
-[![Paulo Freita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev)](https://github.com/paulofreitas-py/BS-Ciencia-da-Computacao)
+-Dados no localstorage
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreitas-py)](https://github.com/paulofreitas-py/BS-Ciencia-da-Computacao)
-  ## Contribuidor
+- >Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/paulofreitas-py"><img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/42820569?s=400&u=756d1c6a756b352a1095e7cb9289d3170f909765&v=4" width="100px;" alt=""/><br /><sub><b>Paulo Freitas</b></sub></a><br />
-    </tr>
 
-    
