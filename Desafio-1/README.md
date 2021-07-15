@@ -1,4 +1,4 @@
-# BS Ciência da Computação
+# Hiring Coders #2
 
 <h1 align="center">
 <img src="https://img.shields.io/static/v1?label=Bolsa&message=Hiring-Coders&color=ff6347&style&logo=ghost"/>
