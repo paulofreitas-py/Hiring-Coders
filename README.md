@@ -17,8 +17,10 @@
 
 ## 📚 Módulos
 
-🔖 [[HC] Módulo 01 - Introdução]()<br>
-
+🔖 [[HC] Módulo 01 - Introdução]()<br> 
+🔖 [[HC] Módulo 02 - Lógica de Programação ]()<br> 
+🔖 [[HC] Módulo 03 - GIT]()<br> 
+🔖 [[HC] Módulo 04 - JavaScript Básico](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/M%C3%B3dulos/%5BHC%5D%20M%C3%B3dulo%2004%20-%20JavaScript%20B%C3%A1sico)<br>
 ## 🛠 Tecnologias Usadas
 <br>
 <p align="center">
