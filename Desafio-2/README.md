@@ -1,7 +1,7 @@
-# Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
+# Desafio 2# - Gestão de Cadastros
 
 <h1 align="center">
-<img src="https://img.shields.io/static/v1?label=Bolsa&message=Hiring-Coders&color=ff6347&style&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=&message=Hiring-Coders&color=ff6347&style&logo=ghost"/>
 <img src="https://img.shields.io/github/license/mashape/apistatus.svg"/>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/paulofreitas-py/Hiring-Coders">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/paulofreitas-py/Hiring-Coders">
@@ -13,21 +13,13 @@
   <img src="https://paulofreitasdev.files.wordpress.com/2021/07/hiringcoders-1.jpg">
 </h2>
 
-Desafio - Criar um sistema de e-commerce para cadastro de email na landing page para recebimento de novidades e promoções.
+2° Entrega - Gestão de Cadastros
+Criação de um sistema e-commerce para inventário de produtos e dados de clientes:
 
+Entregáveis:
 
-1° Entrega 
+- Os dados de clientes, endereços e produtos devem estar devidamente estruturados
 
-- Site Oficial / Landing page  
+- Dados no localstorage
 
-Entregáveis: 
-
--Template do site oficial 
-
--Landing page de promoções, estilo black friday; 
-
--Cadastre seu e-mail para receber promoções 
-
--Dados no localstorage
-
-- >Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
+- Código fonte no github com o arquivo README detalhando as funcionalidades da programação
