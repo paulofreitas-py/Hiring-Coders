@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,200;1,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="produtos.js" defer></script>
+    <title>Cadastrar Produtos</title>
+</head>
+<body>
+    <header>
+        <h1 class="header-title">Cadastro de Produtos</h1>
+    </header>
+    <main>
+        <button type="button" class="button blue mobile interno" id="cadastrarProduto">Cadastrar Produto</button>
+        <table id = "tableProduct" class="records">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Produto</th>
+                    <th>Quantidade</th>
+                    <th>Loja</th>
+                    <th>Ação</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+        <div class="modal" id="modal">
+            <div class="modal-content">
+                <header class="modal-header">
+                    <h2>Novo Produto</h2>
+                    <span class="modal-close" id="modalClose">&#10006;</span>
+                </header>
+                <form id = "form" class="modal-form">
+                    <input id= "codigo" data-index="new" type="text" class="modal-field" placeholder="Código" required>
+                    <input id="produto" type="text" class="modal-field" placeholder="Produto" required>
+                    <input id="quantidade" type="text" class="modal-field" placeholder="Quantidade" required>
+                    <input id="loja" type="text" class="modal-field" placeholder="Loja" required>
+                </form>
+                <footer class="modal-footer">
+                    <button id="salvar" class="button green">Salvar</button>
+                    <button id="cancelar" class="button blue">Cancelar</button>
+                </footer>
+            </div>
+        </div>
+        <a class="btn" href="index.html"><button type="button" class="button-return button blue">Voltar</button></a>
+    </main>
+    <footer>
+        hiring Coders &copy; Paulo Freitas
+    </footer>
+</body>
+</html>
