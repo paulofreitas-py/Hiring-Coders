@@ -29,3 +29,9 @@ Funcionalidade:
 - O usúario na primeira página escolhe o que ele deseja cadastrar, cliente ou produto.
 - Após escolhido ele é oferecido vários campos para preencher, referente ao que ele escolheu. Assim como a opção de voltar a página anterior ou checar o que já foi cadastrado.
 - Ao clicar em cadastrar, todos os dados existentes são salvos no localstorage e renderizados no "Estoque" ou "ClientesDB".
+
+<h2 align="center">
+  <img src="https://paulofreitasdev.files.wordpress.com/2021/07/captura-da-web_24-7-2021_22448_127.0.0.1.jpeg">
+  <img src="https://paulofreitasdev.files.wordpress.com/2021/07/screenshot-2021-07-25-at-15-42-51-cadastrar-produtos.png">
+  <img src="https://paulofreitasdev.files.wordpress.com/2021/07/screenshot-2021-07-25-at-15-40-40-cadastrar-clientes.png">
+</h2>
