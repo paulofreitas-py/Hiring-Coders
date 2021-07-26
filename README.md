@@ -7,6 +7,8 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/paulofreitas-py/Hiring-Coders">
 </h1>
 
+### Repositorio dedicado a todos os projetos do programa da Gama Academy - Hiring Coders#2
+
 <h2 align="center">
   <img src="https://paulofreitasdev.files.wordpress.com/2021/07/hiring-coders-github.png">
 </h2>
@@ -26,10 +28,10 @@
 <p align="center">
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo=css3&ogoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/javascript%20-bf360c.svg?&style=for-the-badge&logo=javascript&ogoColor=white"/>
-   <img alt="Java" src="https://img.shields.io/badge/mysql%20-ff7f50.svg?&style=for-the-badge&logo=mysql&ogoColor=white"/>
+  <img alt="html" src="https://img.shields.io/badge/html5%20-%b22a00.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo=css3&ogoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-bf360c.svg?&style=for-the-badge&logo=javascript&ogoColor=white"/>
+   <img alt="graphql" src="https://img.shields.io/badge/graphql%20-ff7f50.svg?&style=for-the-badge&logo=graphql&ogoColor=white"/>
   <br>
 </p>
 
