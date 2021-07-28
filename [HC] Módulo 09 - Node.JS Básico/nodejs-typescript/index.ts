@@ -25,10 +25,18 @@ const server = createServer((request: IncomingMessage, response: ServerResponse)
             response.end(resposta);
             console.log('saved!');
         });
-
     }
-
-
+    else if (urlparse.pathname == '/selecionar-usuario') {
+        // Selecionar usuario
+        fs.readFile('users/' + params.id + '.txt', function (err, data) {
+            // funcao de callback tem seus valors depois q sao executadas, entao nao garantem a ordem de execucao,
+            // por isso a resposta do http dentro dela
+            resposta = data;
+            res.statusCode = 200;
+            res.setHeader('Content-Type', 'application/json');
+            res.end(resposta);
+        });
+    }
 });
 
 // Execucao
