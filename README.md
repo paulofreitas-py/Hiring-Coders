@@ -22,19 +22,19 @@
 🔖 [[HC] Módulo 01 - Introdução]()<br> 
 🔖 [[HC] Módulo 02 - Lógica de Programação ]()<br> 
 🔖 [[HC] Módulo 03 - GIT]()<br> 
-🔖 [[HC] Módulo 04 - JavaScript Básico](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/M%C3%B3dulos/%5BHC%5D%20M%C3%B3dulo%2004%20-%20JavaScript%20B%C3%A1sico)<br>
-🔖 [[HC] Módulo 05 - JavaScript Avançado](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2005%20-%20JavaScript%20Avan%C3%A7ado)<br> 
+🔗 [[HC] Módulo 04 - JavaScript Básico](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/M%C3%B3dulos/%5BHC%5D%20M%C3%B3dulo%2004%20-%20JavaScript%20B%C3%A1sico)<br>
+🔗 [[HC] Módulo 05 - JavaScript Avançado](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2005%20-%20JavaScript%20Avan%C3%A7ado)<br> 
 🔖 [[HC] Módulo 06 - Typescirpt]()<br> 
-🔖 [[HC] Módulo 07 - React](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2007-%20React)<br> 
-🔖 [[HC] Módulo 08 - GraphQL](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2008%20-%20GraphQL)<br>
-🔖 [[HC] Módulo 09 - Node.js](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2009%20-%20Node.JS%20B%C3%A1sico)<br>
-🔖 [[HC] Módulo 10 - Node.js Avançado](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2009%20-%20Node.JS%20B%C3%A1sico)<br>
+🔗 [[HC] Módulo 07 - React](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2007-%20React)<br> 
+🔗 [[HC] Módulo 08 - GraphQL](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2008%20-%20GraphQL)<br>
+🔗 [[HC] Módulo 09 - Node.js](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2009%20-%20Node.JS%20B%C3%A1sico)<br>
+🔗 [[HC] Módulo 10 - Node.js Avançado](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20M%C3%B3dulo%2009%20-%20Node.JS%20B%C3%A1sico)<br>
 🔖 [[HC] EXtra - HTML]()<br>
 🔖 [[HC] EXtra - CSS]()<br>
 🔖 [[HC] EXtra - Estrutura de Dados]()<br>
 🔖 [[HC] EXtra - Metodolofia Ágeis]()<br>
 🔖 [[HC] EXtra - Boas Praticas]()<br>
-🔖 [[HC] EXtra - Softskils + Assgn]()<br>
+🔗 [[HC] EXtra - Softskils + Assignment](https://github.com/paulofreitas-py/Hiring-Coders/tree/main/%5BHC%5D%20Softskills-Assignment)<br>
 ## 🛠 Tecnologias Usadas
 <br>
 <p align="center">
