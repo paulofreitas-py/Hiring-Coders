@@ -10,7 +10,7 @@ import authMiddleware from './app/middlewares/auth'
 import multer from 'multer';
 import multerConfig from './config/multer';
 
-// import User from './app/models/User';
+//import User from './app/models/User';
 // import Database from './database';
 // usado para teste - a linha acima importa o database/index.js tinha faltado mostrar na aula, consegui solucao no forum no slack
 
