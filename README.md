@@ -1,5 +1,6 @@
 # Hiring Coders #2
-
+<p align="center">
+  <img alt="Letmeask" src="https://paulofreitasdev.files.wordpress.com/2021/09/logo-cor-768x98-1.png" width="250px">
 <h1 align="center">
 <img src="https://img.shields.io/static/v1?label=Gama-Academy&message=Hiring-Coders&color=ff6347&style&logo=ghost"/>
 <img src="https://img.shields.io/github/license/mashape/apistatus.svg"/>
